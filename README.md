@@ -27,5 +27,7 @@ This will be inspired by the values of the company, the vision and the mission.
 
 It should be simple and memorable, something like : `www.solangebernard.com`
 It is also important to decide of the domain extension, `.com` is the most common one but `.fr` or `.ci` are also some good options.
+The availability of the domain name should be checked on [GoDaddy](https://www.godaddy.com/) or other domain registration websites.
+It should be protected by a privacy protection service to prevent spam and identity theft.
 
 <!--- TO DO : --->
