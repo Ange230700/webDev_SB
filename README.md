@@ -35,6 +35,6 @@ It should be protected by a privacy protection service to prevent spam and ident
 The website will be hosted on [Heroku](https://www.heroku.com/) or [Netlify](https://www.netlify.com/) or [Vercel](https://vercel.com/) or [GitHub Pages](https://pages.github.com/), so much options.
 Or we can use a cloud hosting service like [Amazon Web Services](https://aws.amazon.com/) or [Google Cloud Platform](https://cloud.google.com/) or [Microsoft Azure](https://azure.microsoft.com/).
 Or we can use a virtual private server (VPS) like [DigitalOcean](https://www.digitalocean.com/) or [Linode](https://www.linode.com/) or [Vultr](https://www.vultr.com/) or [OVH](https://www.ovh.com/).
-The choice will be made based on the features provided by each platform and the pricing.
+The choice will be made based on the **features** provided by each platform and the **pricing**.
 
 <!--- TO DO : --->
