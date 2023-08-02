@@ -65,4 +65,14 @@ The wireframes will be created using [Figma](https://www.figma.com/) or [Adobe X
 
 The mockups will be created using [Figma](https://www.figma.com/) or [Adobe XD](https://www.adobe.com/products/xd.html) or [Sketch](https://www.sketch.com/) or [InVision](https://www.invisionapp.com/).
 
+### Color Scheme
+
+The color scheme will be created using [Coolors](https://coolors.co/) or [Color Hunt](https://colorhunt.co/).
+Brand colors will be used.
+Color psychology will help to choose the right colors.
+A limites number of colors will be used to keep the design simple and consistent.
+There will be a primary color, a secondary one can be added, two neutral colors will be used for the background and the text.
+Contrast is important, the colors should be chosen carefully to ensure that the text is readable.
+For inspiration, we can check [Dribbble](https://dribbble.com/) or [Behance](https://www.behance.net/) or [Awwwards](https://www.awwwards.com/) or [Pinterest](https://www.pinterest.com/).
+
 <!--- TO DO : --->
