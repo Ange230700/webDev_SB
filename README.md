@@ -61,7 +61,7 @@ The choice will be made based on the **features** provided by each platform and 
 > *Le site web sera hébergé sur [Heroku](https://www.heroku.com/) ou [Netlify](https://www.netlify.com/) ou [Vercel](https://vercel.com/) ou [GitHub Pages](https://pages.github.com/), autant d'options possibles.
 Nous pouvons également utiliser un service d'hébergement cloud comme [Amazon Web Services](https://aws.amazon.com/) ou [Google Cloud Platform](https://cloud.google.com/) ou [Microsoft Azure](https://azure.microsoft.com/).
 Ou nous pouvons utiliser un serveur privé virtuel (VPS) comme [DigitalOcean](https://www.digitalocean.com/) ou [Linode](https://www.linode.com/) ou [Vultr](https://www.vultr.com/) ou [OVH](https://www.ovh.com/).
-Gardons nos options ouvertes et choisissons la meilleure.
+Considérons toutes nos options et choisissons la meilleure.
 Le choix se fera en fonction des **fonctionnalités** offertes par chaque plateforme et des **prix**.*
 
 ## Design and Layout / Conception et mise en page
