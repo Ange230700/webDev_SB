@@ -11,6 +11,11 @@ It is to enhance her online presence and to provide a platform for her to showca
 It is for branding and marketing purposes.
 It is for e-commerce purposes.
 
+> *Le but de ce site est de promouvoir le travail de ma mère, qui est couturière/créatrice.
+Il a pour but d'améliorer sa présence en ligne et de lui fournir une plateforme pour présenter son travail.
+Il est destiné à l'image de marque et au marketing.
+Il est destiné au commerce électronique.*
+
 ### Online Presence
 
 It is to give some information about the **company**, the **products** and the **services** provided.
