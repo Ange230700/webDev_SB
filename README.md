@@ -12,11 +12,11 @@ It is for branding and marketing purposes.
 It is for e-commerce purposes.
 
 > *Le but de ce site est de promouvoir le travail de ma mère, qui est couturière.
-Il a pour but d'améliorer sa présence en ligne et de lui fournir une plateforme pour présenter son travail.
+Il a pour but d'améliorer sa visibilité et de lui fournir une plateforme pour présenter son travail.
 Il est destiné à l'image de marque et au marketing.
 Il est destiné au commerce électronique.*
 
-### Online Presence / Présence en ligne
+### Online Presence / Visibilité en ligne
 
 It is to give some information about the **company**, the **products** and the **services** provided.
 
@@ -28,7 +28,7 @@ It will be the feature which will allow the user to contact the company and to i
 Also, customers will be able to leave reviews and comments. Their contact information will be stored in a database thanks to the contact form.
 A chatbot feature will be implemented to allow the user to interact with the company and to get some information about the products and services.
 
-> *C'est la fonction qui permettra à l'utilisateur de contacter l'entreprise et d'interagir avec elle.
+> *C'est la fonctionnalité qui permettra à l'utilisateur de contacter l'entreprise et d'interagir avec elle.
 Les clients pourront également laisser des avis et des commentaires. Leurs coordonnées seront stockées dans une base de données grâce au formulaire de contact.
 Un chatbot sera mis en place pour permettre à l'utilisateur d'interagir avec l'entreprise et d'obtenir des informations sur les produits et services.*
 
@@ -59,7 +59,7 @@ Let's keep our options open and choose the best one.
 The choice will be made based on the **features** provided by each platform and the **pricing**.
 
 > *Le site web sera hébergé sur [Heroku](https://www.heroku.com/) ou [Netlify](https://www.netlify.com/) ou [Vercel](https://vercel.com/) ou [GitHub Pages](https://pages.github.com/), autant d'options possibles.
-Nous pouvons également utiliser un service d'hébergement en nuage comme [Amazon Web Services](https://aws.amazon.com/) ou [Google Cloud Platform](https://cloud.google.com/) ou [Microsoft Azure](https://azure.microsoft.com/).
+Nous pouvons également utiliser un service d'hébergement cloud comme [Amazon Web Services](https://aws.amazon.com/) ou [Google Cloud Platform](https://cloud.google.com/) ou [Microsoft Azure](https://azure.microsoft.com/).
 Ou nous pouvons utiliser un serveur privé virtuel (VPS) comme [DigitalOcean](https://www.digitalocean.com/) ou [Linode](https://www.linode.com/) ou [Vultr](https://www.vultr.com/) ou [OVH](https://www.ovh.com/).
 Gardons nos options ouvertes et choisissons la meilleure.
 Le choix se fera en fonction des **fonctionnalités** offertes par chaque plateforme et des **prix**.*
