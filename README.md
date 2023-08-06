@@ -76,10 +76,10 @@ The navigation should be simple and intuitive.
 UX is important, the user should be able to navigate easily through the website.
 
 > *L'image de marque est importante, le site web doit être cohérent avec l'image de marque de l'entreprise.
-Le site web doit être **responsive**, **accessible** et **mobile friendly**.
+Le site web doit être **responsive**, **accessible** et **face à utiliser sur mobile**.
 Le site web doit être **rapide** et **sécurisé**.
 Le site web doit être **convenable pour le référencement naturel**.
-Le site web doit être **scalable**.
+Le site web doit être **extensilble**.
 La palette de couleurs doit être simple et cohérente.
 La navigation doit être simple et intuitive.
 L'UX est important, l'utilisateur doit pouvoir naviguer facilement sur le site.*
@@ -102,13 +102,13 @@ La typographie doit être simple et cohérente.*
 
 The wireframes will be created using [Figma](https://www.figma.com/) or [Adobe XD](https://www.adobe.com/products/xd.html) or [Sketch](https://www.sketch.com/) or [InVision](https://www.invisionapp.com/).
 
-> *Les wireframes seront créés à l'aide de [Figma](https://www.figma.com/) ou [Adobe XD](https://www.adobe.com/products/xd.html) ou [Sketch](https://www.sketch.com/) ou [InVision](https://www.invisionapp.com/).*
+> *Les wireframes (maquettes sans design) seront créés à l'aide de [Figma](https://www.figma.com/) ou [Adobe XD](https://www.adobe.com/products/xd.html) ou [Sketch](https://www.sketch.com/) ou [InVision](https://www.invisionapp.com/).*
 
 ### Mockups / Maquettes avec design
 
 The mockups will be created using [Figma](https://www.figma.com/) or [Adobe XD](https://www.adobe.com/products/xd.html) or [Sketch](https://www.sketch.com/) or [InVision](https://www.invisionapp.com/).
 
-> *Les maquettes seront créées à l'aide de [Figma](https://www.figma.com/) ou [Adobe XD](https://www.adobe.com/products/xd.html) ou [Sketch](https://www.sketch.com/) ou [InVision](https://www.invisionapp.com/).*
+> *Les maquettes avec design seront créées à l'aide de [Figma](https://www.figma.com/) ou [Adobe XD](https://www.adobe.com/products/xd.html) ou [Sketch](https://www.sketch.com/) ou [InVision](https://www.invisionapp.com/).*
 
 ### Color Scheme / Palette de couleurs
 
