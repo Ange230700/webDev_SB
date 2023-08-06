@@ -2,7 +2,7 @@
 
 This is the full stack development of mom's company website.
 
-> Il s'agit du développement complet du site web de l'entreprise de maman.
+> *Il s'agit du développement complet du site web de l'entreprise de maman.*
 
 ## Purpose and Goals
 
