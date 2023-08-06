@@ -6,15 +6,15 @@ This is the full stack development of mom's company website.
 
 ## Purpose and Goals / Objectifs et Buts
 
-The purpose of this website is to promote my mom's work who is a dressmaker/designer.
-It is to enhance her online presence and to provide a platform for her to showcase her work.
-It is for branding and marketing purposes.
-It is for e-commerce purposes.
+The purpose of this website is to **promote my mom's work** who is a dressmaker/designer.
+It is to **enhance her online presence** and to provide a **platform for her to showcase her work**.
+It is for **branding** and marketing purposes.
+It is for **e-commerce purposes**.
 
-> *Le but de ce site est de promouvoir le travail de ma mère, qui est couturière.
-Il a pour but d'améliorer sa visibilité et de lui fournir une plateforme pour présenter son travail.
-Il est destiné à l'image de marque et au marketing.
-Il est destiné au commerce électronique.*
+> *Le but de ce site est de **promouvoir le travail de ma mère**, qui est couturière.
+Il a pour but d'**améliorer sa visibilité** et de lui fournir une **plateforme pour présenter son travail**.
+Il est destiné à l'**image de marque** et au marketing.
+Il est destiné à la **vente en ligne**.*
 
 ### Online Presence / Visibilité en ligne
 
@@ -24,19 +24,19 @@ It is to give some information about the **company**, the **products** and the *
 
 ### Communication and interaction / Communication et interaction
 
-It will be the feature which will allow the user to contact the company and to interact with it.
-Also, customers will be able to leave reviews and comments. Their contact information will be stored in a database thanks to the contact form.
+It will be the feature which will allow the user to **contact** the company and to interact with it.
+Also, customers will be able to leave **reviews and comments**. Their contact information will be stored in a database thanks to the contact form.
 A chatbot feature will be implemented to allow the user to interact with the company and to get some information about the products and services.
 
-> *C'est la fonctionnalité qui permettra à l'utilisateur de contacter l'entreprise et d'interagir avec elle.
-Les clients pourront également laisser des avis et des commentaires. Leurs coordonnées seront stockées dans une base de données grâce au formulaire de contact.
+> *C'est la fonctionnalité qui permettra à l'utilisateur de **contacter** l'entreprise et d'interagir avec elle.
+Les clients pourront également laisser **des avis et des commentaires**. Leurs coordonnées seront stockées dans une base de données grâce au formulaire de contact.
 Un chatbot sera mis en place pour permettre à l'utilisateur d'interagir avec l'entreprise et d'obtenir des informations sur les produits et services.*
 
 ### Branding building / Construction de la marque
 
-This will be inspired by the values of the company, the vision and the mission.
+This will be inspired by the **values of the company**, the **vision** and the **mission**.
 
-> *Elle s'inspirera des valeurs de l'entreprise, de sa vision et de sa mission.*
+> *Elle s'inspirera des **valeurs de l'entreprise**, de sa **vision** et de sa **mission**.*
 
 ## Domain name / Nom de domaine
 
@@ -66,7 +66,7 @@ Le choix se fera en fonction des **fonctionnalités** offertes par chaque platef
 
 ## Design and Layout / Conception et mise en page
 
-Branding is important, the website should be consistent with the company's branding.
+Branding is important, the website should be **consistent with the company's branding**.
 The website should be **responsive**, **accessible** and **mobile friendly**.
 The website should be **fast** and **secure**.
 The website should be **SEO friendly**.
@@ -75,7 +75,7 @@ The color scheme should be simple and consistent.
 The navigation should be simple and intuitive.
 UX is important, the user should be able to navigate easily through the website.
 
-> *L'image de marque est importante, le site web doit être cohérent avec l'image de marque de l'entreprise.
+> *L'image de marque est importante, le site web doit être **cohérent avec l'image de marque de l'entreprise**.
 Le site web doit être **responsive**, **accessible** et **face à utiliser sur mobile**.
 Le site web doit être **rapide** et **sécurisé**.
 Le site web doit être **convenable pour le référencement naturel**.
@@ -87,16 +87,16 @@ L'UX est important, l'utilisateur doit pouvoir naviguer facilement sur le site.*
 ### Branding / Image de marque
 
 The aim is to establish a recognizable and memorable image in the mind of the user.
-The logo should be simple and memorable.
-The tagline should be short and memorable.
-The color scheme should be simple and consistent.
-The typography should be simple and consistent.
+The **logo** should be **simple and memorable**.
+The **tagline** should be **short and memorable**.
+The **color** scheme should be **simple and consistent**.
+The **typography** should be **simple and consistent**.
 
 > *L'objectif est d'établir une image reconnaissable et mémorable dans l'esprit de l'utilisateur.
-Le logo doit être simple et mémorable.
-Le slogan doit être court et facile à retenir.
-La palette de couleurs doit être simple et cohérente.
-La typographie doit être simple et cohérente.*
+Le **logo** doit être **simple et mémorable**.
+Le **slogan** doit être **court et facile à retenir**.
+La **palette** de couleurs doit être **simple et cohérente**.
+La **typographie** doit être **simple et cohérente**.*
 
 ### Wireframes / Maquettes sans design
 
@@ -115,7 +115,7 @@ The mockups will be created using [Figma](https://www.figma.com/) or [Adobe XD](
 The color scheme will be created using [Coolors](https://coolors.co/) or [Color Hunt](https://colorhunt.co/).
 Brand colors will be used.
 Color psychology will help to choose the right colors.
-A limites number of colors will be used to keep the design simple and consistent.
+A limited number of colors will be used to keep the design simple and consistent.
 There will be a primary color, a secondary one can be added, two neutral colors will be used for the background and the text.
 Contrast is important, the colors should be chosen carefully to ensure that the text is readable.
 For inspiration, we can check [Dribbble](https://dribbble.com/) or [Behance](https://www.behance.net/) or [Awwwards](https://www.awwwards.com/) or [Pinterest](https://www.pinterest.com/).
