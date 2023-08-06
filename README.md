@@ -2,6 +2,8 @@
 
 This is the full stack development of mom's company website.
 
+> Il s'agit du développement complet du site web de l'entreprise de maman.
+
 ## Purpose and Goals
 
 The purpose of this website is to promote my mom's work who is a dressmaker/designer.
