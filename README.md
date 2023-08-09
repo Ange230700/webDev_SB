@@ -36,9 +36,11 @@ A chatbot feature will be implemented to allow the user to interact with the com
 
 ### Branding building / Construction de la marque
 
-This will be inspired by the **values of the company**, the **vision** and the **mission**.
+This will be inspired by the **values of the company**, the **vision**, the **mission** and the **achievements**.
+It is to create a positive brand image and engaging potential customers.
 
-> _Elle s'inspirera des **valeurs de l'entreprise**, de sa **vision** et de sa **mission**._
+> _Elle s'inspirera des **valeurs de l'entreprise**, de sa **vision** et de sa **mission**.
+> Il s'agit de créer une image de marque positive et d'engager les clients._
 
 ## Domain name / Nom de domaine
 
