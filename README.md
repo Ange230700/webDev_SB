@@ -42,6 +42,110 @@ It is to create a positive brand image and engaging potential customers.
 > _Elle s'inspirera des **valeurs de l'entreprise**, de sa **vision** et de sa **mission**.
 > Il s'agit de créer une image de marque positive et d'engager les clients._
 
+## Website features / Fonctionnalités du site web
+
+### Home page / Page d'accueil
+
+The home page will be the first page the user will see when he visits the website.
+
+> _La page d'accueil sera la première page que l'utilisateur verra lorsqu'il visitera le site web._
+
+### About page / Page à propos
+
+The about page will give some information about the company, the products and the services provided.
+
+> _La page à propos donnera des informations sur l'entreprise, les produits et les services fournis._
+
+### Contact page / Page de contact
+
+The contact page will allow the user to contact the company.
+
+> _La page de contact permettra à l'utilisateur de contacter l'entreprise._
+
+### Reviews page / Page des avis
+
+The reviews page will allow the user to leave a review or a comment.
+
+> _La page des avis permettra à l'utilisateur de laisser un avis ou un commentaire._
+
+### Search bar / Barre de recherche
+
+The search bar will allow the user to search for a product or a service.
+
+> _La barre de recherche permettra à l'utilisateur de rechercher un produit ou un service._
+
+### Multi-language support / Support multilingue
+
+The website will be available in multiple languages.
+
+> _Le site web sera disponible en plusieurs langues._
+
+### Multimedia content / Contenu multimédia
+
+The website will contain multimedia content like images, videos and audio.
+
+> _Le site web contiendra du contenu multimédia comme des images, des vidéos et de l'audio._
+
+### Social media integration / Intégration des réseaux sociaux
+
+The website will be integrated with social media platforms like Facebook, Instagram, Twitter, LinkedIn, YouTube, Pinterest, etc.
+
+> _Le site web sera intégré aux plateformes de réseaux sociaux comme Facebook, Instagram, Twitter, LinkedIn, YouTube, Pinterest, etc._
+
+### Blog or News section / Blog ou section Actualités
+
+The website will have a blog or a news section.
+
+> _Le site web aura un blog ou une section Actualités._
+
+### Login and registration / Connexion et inscription
+
+The website will have a login and registration system.
+
+> _Le site web aura un système de connexion et d'inscription._
+
+### Shop / Boutique
+
+The website will have an online shop.
+
+> _Le site web aura une boutique en ligne._
+
+### Privacy policy / Politique de confidentialité
+
+The website will have a privacy policy.
+
+> _Le site web aura une politique de confidentialité._
+
+### Terms and conditions / Conditions générales d'utilisation
+
+The website will have terms and conditions.
+
+> _Le site web aura des conditions générales d'utilisation._
+
+### Cookie consent / Consentement aux cookies
+
+The website will have a cookie consent.
+
+> _Le site web aura un consentement aux cookies._
+
+### Sitemap / Plan du site
+
+The website will have a sitemap.
+
+> _Le site web aura un plan du site._
+
+### FAQ / FAQ
+
+The website will have a FAQ section.
+
+> _Le site web aura une section FAQ._
+
+### Call To Action (CTA) / Appel à l'action (CTA)
+
+The website will have a call to action.
+
+> _Le site web aura un appel à l'action._
+
 ## Design and Layout / Conception et mise en page
 
 Branding is important, the website should be **consistent with the company's branding**.
