@@ -42,32 +42,6 @@ It is to create a positive brand image and engaging potential customers.
 > _Elle s'inspirera des **valeurs de l'entreprise**, de sa **vision** et de sa **mission**.
 > Il s'agit de créer une image de marque positive et d'engager les clients._
 
-## Domain name / Nom de domaine
-
-It should be simple and memorable, something like : `www.solangebernard.com`
-It is also important to decide of the domain extension, `.com` is the most common one but `.fr` or `.ci` are also some good options.
-The availability of the domain name should be checked on [GoDaddy](https://www.godaddy.com/) or other domain registration websites.
-It should be protected by a privacy protection service to prevent spam and identity theft.
-
-> _Il doit être simple et mémorable, quelque chose comme : `www.solangebernard.com`
-> Il est également important de choisir l'extension du domaine, `.com` est la plus courante mais `.fr` ou `.ci` sont également de bonnes options.
-> La disponibilité du nom de domaine doit être vérifiée sur [GoDaddy] (https://www.godaddy.com/) ou d'autres sites d'enregistrement de domaines.
-> Il doit être protégé par un service de protection de la vie privée afin d'éviter le spam et l'usurpation d'identité._
-
-## Hosting / Hébergement
-
-The website will be hosted on [Heroku](https://www.heroku.com/) or [Netlify](https://www.netlify.com/) or [Vercel](https://vercel.com/) or [GitHub Pages](https://pages.github.com/), so much options.
-Or we can use a cloud hosting service like [Amazon Web Services](https://aws.amazon.com/) or [Google Cloud Platform](https://cloud.google.com/) or [Microsoft Azure](https://azure.microsoft.com/).
-Or we can use a virtual private server (VPS) like [DigitalOcean](https://www.digitalocean.com/) or [Linode](https://www.linode.com/) or [Vultr](https://www.vultr.com/) or [OVH](https://www.ovh.com/).
-Let's keep our options open and choose the best one.
-The choice will be made based on the **features** provided by each platform and the **pricing**.
-
-> _Le site web sera hébergé sur [Heroku](https://www.heroku.com/) ou [Netlify](https://www.netlify.com/) ou [Vercel](https://vercel.com/) ou [GitHub Pages](https://pages.github.com/), autant d'options possibles.
-> Nous pouvons également utiliser un service d'hébergement cloud comme [Amazon Web Services](https://aws.amazon.com/) ou [Google Cloud Platform](https://cloud.google.com/) ou [Microsoft Azure](https://azure.microsoft.com/).
-> Ou nous pouvons utiliser un serveur privé virtuel (VPS) comme [DigitalOcean](https://www.digitalocean.com/) ou [Linode](https://www.linode.com/) ou [Vultr](https://www.vultr.com/) ou [OVH](https://www.ovh.com/).
-> Considérons toutes nos options et choisissons la meilleure.
-> Le choix se fera en fonction des **fonctionnalités** offertes par chaque plateforme et des **prix**._
-
 ## Design and Layout / Conception et mise en page
 
 Branding is important, the website should be **consistent with the company's branding**.
@@ -131,5 +105,31 @@ For inspiration, we can check [Dribbble](https://dribbble.com/) or [Behance](htt
 > Il y aura une couleur primaire, une couleur secondaire pourra être ajoutée, deux couleurs neutres seront utilisées pour l'arrière-plan et le texte.
 > Le contraste est important, les couleurs doivent être choisies avec soin pour que le texte soit lisible.
 > Pour vous inspirer, vous pouvez consulter [Dribbble](https://dribbble.com/) ou [Behance](https://www.behance.net/) ou [Awwwards](https://www.awwwards.com/) ou [Pinterest](https://www.pinterest.com/)._
+
+## Domain name / Nom de domaine
+
+It should be simple and memorable, something like : `www.solangebernard.com`
+It is also important to decide of the domain extension, `.com` is the most common one but `.fr` or `.ci` are also some good options.
+The availability of the domain name should be checked on [GoDaddy](https://www.godaddy.com/) or other domain registration websites.
+It should be protected by a privacy protection service to prevent spam and identity theft.
+
+> _Il doit être simple et mémorable, quelque chose comme : `www.solangebernard.com`
+> Il est également important de choisir l'extension du domaine, `.com` est la plus courante mais `.fr` ou `.ci` sont également de bonnes options.
+> La disponibilité du nom de domaine doit être vérifiée sur [GoDaddy] (https://www.godaddy.com/) ou d'autres sites d'enregistrement de domaines.
+> Il doit être protégé par un service de protection de la vie privée afin d'éviter le spam et l'usurpation d'identité._
+
+## Hosting / Hébergement
+
+The website will be hosted on [Heroku](https://www.heroku.com/) or [Netlify](https://www.netlify.com/) or [Vercel](https://vercel.com/) or [GitHub Pages](https://pages.github.com/), so much options.
+Or we can use a cloud hosting service like [Amazon Web Services](https://aws.amazon.com/) or [Google Cloud Platform](https://cloud.google.com/) or [Microsoft Azure](https://azure.microsoft.com/).
+Or we can use a virtual private server (VPS) like [DigitalOcean](https://www.digitalocean.com/) or [Linode](https://www.linode.com/) or [Vultr](https://www.vultr.com/) or [OVH](https://www.ovh.com/).
+Let's keep our options open and choose the best one.
+The choice will be made based on the **features** provided by each platform and the **pricing**.
+
+> _Le site web sera hébergé sur [Heroku](https://www.heroku.com/) ou [Netlify](https://www.netlify.com/) ou [Vercel](https://vercel.com/) ou [GitHub Pages](https://pages.github.com/), autant d'options possibles.
+> Nous pouvons également utiliser un service d'hébergement cloud comme [Amazon Web Services](https://aws.amazon.com/) ou [Google Cloud Platform](https://cloud.google.com/) ou [Microsoft Azure](https://azure.microsoft.com/).
+> Ou nous pouvons utiliser un serveur privé virtuel (VPS) comme [DigitalOcean](https://www.digitalocean.com/) ou [Linode](https://www.linode.com/) ou [Vultr](https://www.vultr.com/) ou [OVH](https://www.ovh.com/).
+> Considérons toutes nos options et choisissons la meilleure.
+> Le choix se fera en fonction des **fonctionnalités** offertes par chaque plateforme et des **prix**._
 
 <!--- TO DO : --->
