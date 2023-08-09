@@ -195,7 +195,7 @@ The aspects to consider are :
 - **functionality**
 - **utility**
 
-> \_L'objectif est de fournir une **expérience positive** à l'utilisateur.
+> _L'objectif est de fournir une **expérience positive** à l'utilisateur.
 > Les aspects à prendre en compte sont :
 >
 > - **utilisabilité**
@@ -206,7 +206,7 @@ The aspects to consider are :
 > - **marketing**
 > - **image de marque**
 > - **fonctionnalité**
-> - **utilité**\_
+> - **utilité**_
 
 ### Wireframes / Maquettes sans design
 
