@@ -184,7 +184,6 @@ The **typography** should be **simple and consistent**.
 
 The aim is to provide a **positive experience** to the user.
 The aspects to consider are :
-
 - **usability**
 - **accessibility**
 - **performance**
@@ -197,7 +196,6 @@ The aspects to consider are :
 
 > _L'objectif est de fournir une **expérience positive** à l'utilisateur.
 > Les aspects à prendre en compte sont :
->
 > - **utilisabilité**
 > - **accessibilité**
 > - **performance**
