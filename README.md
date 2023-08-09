@@ -180,6 +180,34 @@ The **typography** should be **simple and consistent**.
 > La **palette** de couleurs doit être **simple et cohérente**.
 > La **typographie** doit être **simple et cohérente**._
 
+### UX design / Conception UX
+
+The aim is to provide a **positive experience** to the user.
+The aspects to consider are :
+
+- **usability**
+- **accessibility**
+- **performance**
+- **design**
+- **ergonomics**
+- **marketing**
+- **branding**
+- **functionality**
+- **utility**
+
+> \_L'objectif est de fournir une **expérience positive** à l'utilisateur.
+> Les aspects à prendre en compte sont :
+>
+> - **utilisabilité**
+> - **accessibilité**
+> - **performance**
+> - **design**
+> - **ergonomie**
+> - **marketing**
+> - **image de marque**
+> - **fonctionnalité**
+> - **utilité**\_
+
 ### Wireframes / Maquettes sans design
 
 The wireframes will be created using [Figma](https://www.figma.com/) or [Adobe XD](https://www.adobe.com/products/xd.html) or [Sketch](https://www.sketch.com/) or [InVision](https://www.invisionapp.com/).
