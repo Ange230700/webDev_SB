@@ -184,6 +184,7 @@ The **typography** should be **simple and consistent**.
 
 The aim is to provide a **positive experience** to the user.
 The aspects to consider are :
+
 - **usability**
 - **accessibility**
 - **performance**
@@ -195,16 +196,17 @@ The aspects to consider are :
 - **utility**
 
 > _L'objectif est de fournir une **expérience positive** à l'utilisateur.
-> Les aspects à prendre en compte sont :
-> - **utilisabilité**
-> - **accessibilité**
-> - **performance**
-> - **design**
-> - **ergonomie**
-> - **marketing**
-> - **image de marque**
-> - **fonctionnalité**
-> - **utilité**_
+> Les aspects à prendre en compte sont :_
+>
+> - _**utilisabilité**_
+> - _**accessibilité**_
+> - _**performance**_
+> - _**design**_
+> - _**ergonomie**_
+> - _**marketing**_
+> - _**image de marque**_
+> - _**fonctionnalité**_
+> - _**utilité**_
 
 ### Wireframes / Maquettes sans design
 
