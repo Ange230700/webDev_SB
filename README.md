@@ -13,7 +13,7 @@ It is for **e-commerce purposes**.
 
 > _Le but de ce site est de **promouvoir le travail de ma mère**, qui est couturière._\
 > _Il a pour but d'**améliorer sa visibilité** et de lui fournir une **plateforme pour présenter son travail**._\
-> _Il est destiné à l'**image de marque** et au marketing._\
+> _Il est destiné à l'**image de marque** et au **marketing**._\
 > _Il est destiné à la **vente en ligne**._
 
 ### Online Presence / Visibilité en ligne
@@ -27,12 +27,12 @@ It is also essential for credibility.
 ### Communication and interaction / Communication et interaction
 
 It will be the feature which will allow the user to **contact** the company and to interact with it.\
-Also, customers will be able to leave **reviews and comments**. Their contact information will be stored in a database thanks to the contact form.\
-A chatbot feature will be implemented to allow the user to interact with the company and to get some information about the products and services.
+Also, customers will be able to leave **reviews and comments**. Their contact information will be stored in a **database** thanks to the contact form.\
+A chatbot feature will be implemented to allow the user to interact with the company and to get some information about the products and services.(not essential)
 
 > _C'est la fonctionnalité qui permettra à l'utilisateur de **contacter** l'entreprise et d'interagir avec elle.\
-> Les clients pourront également laisser **des avis et des commentaires**. Leurs coordonnées seront stockées dans une base de données grâce au formulaire de contact.\
-> Un chatbot sera mis en place pour permettre à l'utilisateur d'interagir avec l'entreprise et d'obtenir des informations sur les produits et services._
+> Les clients pourront également laisser **des avis et des commentaires**. Leurs coordonnées seront stockées dans une **base de données** grâce au formulaire de contact.\
+> Un chatbot sera mis en place pour permettre à l'utilisateur d'interagir avec l'entreprise et d'obtenir des informations sur les produits et services.(non prioritaire)_
 
 ### Branding building / Construction de la marque
 
