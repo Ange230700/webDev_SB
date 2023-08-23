@@ -189,7 +189,6 @@ The aspects to consider are :
 - **accessibility**
 - **performance**
 - **ergonomics**
-- **marketing**
 - **branding**
 - **functionality**
 - **utility**
