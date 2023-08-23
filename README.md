@@ -2,6 +2,10 @@
 
 # webDev_SB
 
+This is the full stack development of mom's company website.
+
+> _Il s'agit du développement complet du site web de l'entreprise de maman._
+
 <!--TODO: Create a table of contents-->
 
 <!--? TABLE OF CONTENTS -->
@@ -41,10 +45,6 @@
   - [Color Scheme / Palette de couleurs](#color-scheme--palette-de-couleurs)
 - [Domain name / Nom de domaine](#domain-name--nom-de-domaine)
 - [Hosting / Hébergement](#hosting--hébergement)
-
-This is the full stack development of mom's company website.
-
-> _Il s'agit du développement complet du site web de l'entreprise de maman._
 
 <!--? == PURPOSE OF THE SITE == -->
 
