@@ -182,8 +182,8 @@ The **typography** should be **simple and consistent**.
 
 ### UX design / Conception UX
 
-> _The aim is to provide a **positive experience** to the user._\
-> _The aspects to consider are :_
+> The aim is to provide a **positive experience** to the user.
+> The aspects to consider are :
 
 - **usability**
 - **accessibility**
