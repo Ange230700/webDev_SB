@@ -8,7 +8,7 @@ This is the full stack development of mom's company website.
 
 The purpose of this website is to **promote my mom's work** who is a dressmaker/designer.\
 It is to **enhance her online presence** and to provide a **platform for her to showcase her work**.\
-It is for **branding** and marketing purposes.\
+It is for **branding** and **marketing** purposes.\
 It is for **e-commerce purposes**.
 
 > _Le but de ce site est de **promouvoir le travail de ma mère**, qui est couturière._\
