@@ -6,15 +6,15 @@ This is the full stack development of mom's company website.
 
 ## Purpose and Goals / Objectifs et Buts
 
-The purpose of this website is to **promote my mom's work** who is a dressmaker/designer.
-It is to **enhance her online presence** and to provide a **platform for her to showcase her work**.
-It is for **branding** and marketing purposes.
-It is for **e-commerce purposes**.
+The purpose of this website is to **promote my mom's work** who is a dressmaker/designer.\
+It is to **enhance her online presence** and to provide a **platform for her to showcase her work**.\
+It is for **branding** and marketing purposes.\
+It is for **e-commerce purposes**.\
 
-> _Le but de ce site est de **promouvoir le travail de ma mère**, qui est couturière.
-> Il a pour but d'**améliorer sa visibilité** et de lui fournir une **plateforme pour présenter son travail**.
-> Il est destiné à l'**image de marque** et au marketing.
-> Il est destiné à la **vente en ligne**._
+> _Le but de ce site est de **promouvoir le travail de ma mère**, qui est couturière._\
+> _Il a pour but d'**améliorer sa visibilité** et de lui fournir une **plateforme pour présenter son travail**._\
+> _Il est destiné à l'**image de marque** et au marketing._\
+> _Il est destiné à la **vente en ligne**._\
 
 ### Online Presence / Visibilité en ligne
 
@@ -205,7 +205,8 @@ The aspects to consider are :
 The wireframes will give an idea of the basic structure of the website. It will be a simple sketch without design. It will help to see where each element will be placed on the page.
 The technology I will use to build the wireframes is [Figma](https://www.figma.com/).
 
-> _Les wireframes donneront une idée de la structure de base du site web. Ce sera un simple croquis sans design. Cela aidera à voir où chaque élément sera placé sur la page._ > _La technologie que j'utiliserai pour construire les wireframes est [Figma](https://www.figma.com/)._
+> _Les wireframes donneront une idée de la structure de base du site web. Ce sera un simple croquis sans design. Cela aidera à voir où chaque élément sera placé sur la page._
+> _La technologie que j'utiliserai pour construire les wireframes est [Figma](https://www.figma.com/)._
 
 ### Mockups / Maquettes avec design
 
@@ -247,7 +248,7 @@ The domain name should be simple and memorable, something like : `www.solangeber
 It is also important to decide diligently of the domain extension, `.com` is the most common one but `.fr` or `.ci` are also some good options.
 The availability of the domain name should be checked on a domain registration website.
 
-> _Le nom de domaine doit être simple et mémorable, quelque chose comme : `www.solangebernard.com`._ > _Il est également important de bien choisir l'extension du domaine, `.com` est la plus courante mais `.fr` ou `.ci` sont également de bonnes options._ 
+> _Le nom de domaine doit être simple et mémorable, quelque chose comme : `www.solangebernard.com`._ > _Il est également important de bien choisir l'extension du domaine, `.com` est la plus courante mais `.fr` ou `.ci` sont également de bonnes options._
 > _La disponibilité du nom de domaine doit être vérifiée sur un site d'enregistrement de domaines._
 
 ## Hosting / Hébergement
