@@ -18,20 +18,20 @@ It is for **e-commerce purposes**.
 
 ### Online Presence / Visibilité en ligne
 
-It is to give some information about the **company**, the **products** and the **services** provided.
+It is to give some information about the **company**, the **products** and the **services** provided.\
 It is also essential for credibility.
 
-> _Il s'agit de donner des informations sur la **société**, les **produits** et les **services** fournis.
+> _Il s'agit de donner des informations sur la **société**, les **produits** et les **services** fournis.\
 > C'est aussi un élément essentiel qui assure la crédibilité de l'entreprise._
 
 ### Communication and interaction / Communication et interaction
 
-It will be the feature which will allow the user to **contact** the company and to interact with it.
-Also, customers will be able to leave **reviews and comments**. Their contact information will be stored in a database thanks to the contact form.
+It will be the feature which will allow the user to **contact** the company and to interact with it.\
+Also, customers will be able to leave **reviews and comments**. Their contact information will be stored in a database thanks to the contact form.\
 A chatbot feature will be implemented to allow the user to interact with the company and to get some information about the products and services.
 
-> _C'est la fonctionnalité qui permettra à l'utilisateur de **contacter** l'entreprise et d'interagir avec elle.
-> Les clients pourront également laisser **des avis et des commentaires**. Leurs coordonnées seront stockées dans une base de données grâce au formulaire de contact.
+> _C'est la fonctionnalité qui permettra à l'utilisateur de **contacter** l'entreprise et d'interagir avec elle.\
+> Les clients pourront également laisser **des avis et des commentaires**. Leurs coordonnées seront stockées dans une base de données grâce au formulaire de contact.\
 > Un chatbot sera mis en place pour permettre à l'utilisateur d'interagir avec l'entreprise et d'obtenir des informations sur les produits et services._
 
 ### Branding building / Construction de la marque
@@ -205,8 +205,7 @@ The aspects to consider are :
 The wireframes will give an idea of the basic structure of the website. It will be a simple sketch without design. It will help to see where each element will be placed on the page.
 The technology I will use to build the wireframes is [Figma](https://www.figma.com/).
 
-> _Les wireframes donneront une idée de la structure de base du site web. Ce sera un simple croquis sans design. Cela aidera à voir où chaque élément sera placé sur la page._
-> _La technologie que j'utiliserai pour construire les wireframes est [Figma](https://www.figma.com/)._
+> _Les wireframes donneront une idée de la structure de base du site web. Ce sera un simple croquis sans design. Cela aidera à voir où chaque élément sera placé sur la page._ > _La technologie que j'utiliserai pour construire les wireframes est [Figma](https://www.figma.com/)._
 
 ### Mockups / Maquettes avec design
 
@@ -248,8 +247,7 @@ The domain name should be simple and memorable, something like : `www.solangeber
 It is also important to decide diligently of the domain extension, `.com` is the most common one but `.fr` or `.ci` are also some good options.
 The availability of the domain name should be checked on a domain registration website.
 
-> _Le nom de domaine doit être simple et mémorable, quelque chose comme : `www.solangebernard.com`._ > _Il est également important de bien choisir l'extension du domaine, `.com` est la plus courante mais `.fr` ou `.ci` sont également de bonnes options._
-> _La disponibilité du nom de domaine doit être vérifiée sur un site d'enregistrement de domaines._
+> _Le nom de domaine doit être simple et mémorable, quelque chose comme : `www.solangebernard.com`._ > _Il est également important de bien choisir l'extension du domaine, `.com` est la plus courante mais `.fr` ou `.ci` sont également de bonnes options._ > _La disponibilité du nom de domaine doit être vérifiée sur un site d'enregistrement de domaines._
 
 ## Hosting / Hébergement
 
