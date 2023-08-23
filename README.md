@@ -2,6 +2,17 @@
 
 # webDev_SB
 
+<!--TODO: Create a table of contents-->
+
+<!--? TABLE OF CONTENTS -->
+
+## Table of contents / Table des matières
+
+- [Purpose and Goals / Objectifs et Buts](#purpose-and-goals--objectifs-et-buts)
+  - [Online Presence / Visibilité en ligne](#online-presence--visibilité-en-ligne)
+  - [Communication and interaction / Communication et interaction](#communication-and-interaction--communication-et-interaction)
+  - [Branding building / Construction de la marque](#branding-building--construction-de-la-marque)
+
 This is the full stack development of mom's company website.
 
 > _Il s'agit du développement complet du site web de l'entreprise de maman._
@@ -360,3 +371,7 @@ The choice will be made based on the **features** provided by each platform and 
 
 > _Gardons nos options ouvertes et choisissons la meilleure._\
 > _Le choix sera fait en fonction des **fonctionnalités** fournies par chaque plateforme et du **prix**._
+
+<!--TODO: Lay out the tech I am going to use the way FM do-->
+<!--TODO: Make acknowledgement the way FM do-->
+<!--TODO: Suggest a style guide the way FM do-->
