@@ -182,8 +182,8 @@ The **typography** should be **simple and consistent**.
 
 ### UX design / Conception UX
 
-The aim is to provide a **positive experience** to the user.
-The aspects to consider are :
+> _The aim is to provide a **positive experience** to the user._\
+> _The aspects to consider are :_
 
 - **usability**
 - **accessibility**
@@ -191,9 +191,9 @@ The aspects to consider are :
 - **ergonomics**
 - **functionality**
 
-> _L'objectif est de fournir une **expérience positive** à l'utilisateur.
-> Les aspects à prendre en compte sont :_
->
+> _L'objectif est de fournir une **expérience positive** à l'utilisateur._\
+> _Les aspects à prendre en compte sont :_
+
 > - _**utilisabilité**_
 > - _**accessibilité**_
 > - _**performance**_
@@ -202,23 +202,25 @@ The aspects to consider are :
 
 ### Wireframes / Maquettes sans design
 
-The wireframes will give an idea of the basic structure of the website. It will be a simple sketch without design. It will help to see where each element will be placed on the page.
+The wireframes will give an idea of the basic structure of the website. It will be a simple sketch without design. It will help to see where each element will be placed on the page.\
 The technology I will use to build the wireframes is [Figma](https://www.figma.com/).
 
-> _Les wireframes donneront une idée de la structure de base du site web. Ce sera un simple croquis sans design. Cela aidera à voir où chaque élément sera placé sur la page._ > _La technologie que j'utiliserai pour construire les wireframes est [Figma](https://www.figma.com/)._
+> _Les wireframes donneront une idée de la structure de base du site web. Ce sera un simple croquis sans design. Cela aidera à voir où chaque élément sera placé sur la page._\
+> _La technologie que j'utiliserai pour construire les wireframes est [Figma](https://www.figma.com/)._
 
 ### Mockups / Maquettes avec design
 
-The mockups will give an idea of the final design of the website. It will be a sketch with design. It will help to see how the website shoul look like.
+The mockups will give an idea of the final design of the website. It will be a sketch with design. It will help to see how the website should look like.\
 As for the wireframes, I will use [Figma](https://www.figma.com/) to build the mockups.
 
-> _Les maquettes donneront une idée du design final du site web. Ce sera un croquis avec design. Cela aidera à voir à quoi le site web devrait ressembler._ > _Comme pour les wireframes, j'utiliserai [Figma](https://www.figma.com/) pour construire les maquettes._
+> _Les maquettes donneront une idée du design final du site web. Ce sera un croquis avec design. Cela aidera à voir à quoi le site web devrait ressembler._\
+> _Comme pour les wireframes, j'utiliserai [Figma](https://www.figma.com/) pour construire les maquettes._
 
 ### Color Scheme / Palette de couleurs
 
-Colors representing accurately the brand must be used.
-A limited number of colors will be used to keep the design simple and consistent.
-There will be a primary color, a secondary one can be added, two neutral colors will be used for the background color and the text color.
+Colors representing accurately the brand must be used.\
+A limited number of colors will be used to keep the design simple and consistent.\
+There will be a primary color, a secondary one can be added, two neutral colors will be used for the background color and the text color.\
 The optional technologies to choose the color scheme are:
 
 - [Coolors](https://coolors.co/)
@@ -230,7 +232,10 @@ For inspiration, we can check:
 - [Behance](https://www.behance.net/)
 - [Awwwards](https://www.awwwards.com/)
 
-> _Les couleurs représentant fidèlement la marque doivent être utilisées._ > _Un nombre limité de couleurs sera utilisé pour garder le design simple et cohérent._ > _Il y aura une couleur principale, une seconde peut être ajoutée, deux couleurs neutres seront utilisées pour la couleur de fond et la couleur du texte._ > _Les technologies optionnelles pour choisir la palette de couleurs sont :_
+> _Les couleurs représentant fidèlement la marque doivent être utilisées._\
+> _Un nombre limité de couleurs sera utilisé pour garder le design simple et cohérent._\
+> _Il y aura une couleur principale, une seconde peut être ajoutée, deux couleurs neutres seront utilisées pour la couleur de fond et la couleur du texte._\
+> _Les technologies optionnelles pour choisir la palette de couleurs sont :_
 
 > - _[Coolors](https://coolors.co/)_
 > - _[Color Hunt](https://colorhunt.co/)_
@@ -243,24 +248,25 @@ For inspiration, we can check:
 
 ## Domain name / Nom de domaine
 
-The domain name should be simple and memorable, something like : `www.solangebernard.com`.
-It is also important to decide diligently of the domain extension, `.com` is the most common one but `.fr` or `.ci` are also some good options.
+The domain name should be simple and memorable, something like : `www.solangebernard.com`.\
+It is also important to decide diligently of the domain extension, `.com` is the most common one but `.fr` or `.ci` are also some good options.\
 The availability of the domain name should be checked on a domain registration website.
 
-> _Le nom de domaine doit être simple et mémorable, quelque chose comme : `www.solangebernard.com`._ > _Il est également important de bien choisir l'extension du domaine, `.com` est la plus courante mais `.fr` ou `.ci` sont également de bonnes options._ > _La disponibilité du nom de domaine doit être vérifiée sur un site d'enregistrement de domaines._
+> _Le nom de domaine doit être simple et mémorable, quelque chose comme : `www.solangebernard.com`._\
+> _Il est également important de bien choisir l'extension du domaine, `.com` est la plus courante mais `.fr` ou `.ci` sont également de bonnes options._\
+> _La disponibilité du nom de domaine doit être vérifiée sur un site d'enregistrement de domaines._
 
 ## Hosting / Hébergement
 
-The website will be hosted on [Heroku](https://www.heroku.com/) or [Netlify](https://www.netlify.com/) or [Vercel](https://vercel.com/) or [GitHub Pages](https://pages.github.com/), so much options.
-Or we can use a cloud hosting service like [Amazon Web Services](https://aws.amazon.com/) or [Google Cloud Platform](https://cloud.google.com/) or [Microsoft Azure](https://azure.microsoft.com/).
-Or we can use a virtual private server (VPS) like [DigitalOcean](https://www.digitalocean.com/) or [Linode](https://www.linode.com/) or [Vultr](https://www.vultr.com/) or [OVH](https://www.ovh.com/).
-Let's keep our options open and choose the best one.
-The choice will be made based on the **features** provided by each platform and the **pricing**.
+The optional technologies for hosting are:
 
-> _Le site web sera hébergé sur [Heroku](https://www.heroku.com/) ou [Netlify](https://www.netlify.com/) ou [Vercel](https://vercel.com/) ou [GitHub Pages](https://pages.github.com/), autant d'options possibles.
-> Nous pouvons également utiliser un service d'hébergement cloud comme [Amazon Web Services](https://aws.amazon.com/) ou [Google Cloud Platform](https://cloud.google.com/) ou [Microsoft Azure](https://azure.microsoft.com/).
-> Ou nous pouvons utiliser un serveur privé virtuel (VPS) comme [DigitalOcean](https://www.digitalocean.com/) ou [Linode](https://www.linode.com/) ou [Vultr](https://www.vultr.com/) ou [OVH](https://www.ovh.com/).
-> Considérons toutes nos options et choisissons la meilleure.
-> Le choix se fera en fonction des **fonctionnalités** offertes par chaque plateforme et des **prix**._
+- [Heroku](https://www.heroku.com/)
+- [Netlify](https://www.netlify.com/)
+- [Vercel](https://vercel.com/)
+- [GitHub Pages](https://pages.github.com/)
+- [Amazon Web Services](https://aws.amazon.com/)
+- [Google Cloud Platform](https://cloud.google.com/)
+- [Microsoft Azure](https://azure.microsoft.com/)
 
-<!--- TO DO : --->
+Let's keep our options open and choose the best one.\
+The choice will be made based on the **features** provided by each platform and the **pricing**.\
