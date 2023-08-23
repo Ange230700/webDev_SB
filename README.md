@@ -21,18 +21,16 @@ It is for **e-commerce purposes**.
 It is to give some information about the **company**, the **products** and the **services** provided.\
 It is also essential for credibility.
 
-> _Il s'agit de donner des informations sur la **société**, les **produits** et les **services** fournis.\
-> C'est aussi un élément essentiel qui assure la crédibilité de l'entreprise._
+> _Il s'agit de donner des informations sur la **société**, les **produits** et les **services** fournis._\
+> _C'est aussi un élément essentiel qui assure la crédibilité de l'entreprise._
 
 ### Communication and interaction / Communication et interaction
 
-It will be the feature which will allow the user to **contact** the company and to interact with it.\
-Also, customers will be able to leave **reviews and comments**. Their contact information will be stored in a **database** thanks to the contact form.\
-A chatbot feature will be implemented to allow the user to interact with the company and to get some information about the products and services.(not essential)
+It is to **contact** the company and to interact with it.\
+Also, customers will be able to leave **reviews and comments**.
 
-> _C'est la fonctionnalité qui permettra à l'utilisateur de **contacter** l'entreprise et d'interagir avec elle.\
-> Les clients pourront également laisser **des avis et des commentaires**. Leurs coordonnées seront stockées dans une **base de données** grâce au formulaire de contact.\
-> Un chatbot sera mis en place pour permettre à l'utilisateur d'interagir avec l'entreprise et d'obtenir des informations sur les produits et services.(non prioritaire)_
+> _C'est la fonctionnalité qui permettra à l'utilisateur de **contacter** l'entreprise et d'interagir avec elle._\
+> _Les clients pourront également laisser **des avis et des commentaires**._\
 
 ### Branding building / Construction de la marque
 
@@ -100,9 +98,11 @@ The website will have a blog or a news section.
 
 ### Login and registration / Connexion et inscription
 
-The website will have a login and registration system.
+The website will have a login and registration system.\
+Their information will be stored in a **database** thanks to a form.
 
-> _Le site web aura un système de connexion et d'inscription._
+> _Le site web aura un système de connexion et d'inscription._\
+> _Leurs coordonnées seront stockées dans une **base de données** grâce au formulaire de contact._
 
 ### Shop / Boutique
 
@@ -145,6 +145,12 @@ The website will have a FAQ section.
 The website will have a call to action.
 
 > _Le site web aura un appel à l'action._
+
+### Chatbot / Chatbot
+
+A chatbot feature will be implemented to allow the user to interact with the company and to get some information about the products and services.(not essential)
+
+> _Un chatbot sera mis en place pour permettre à l'utilisateur d'interagir avec l'entreprise et d'obtenir des informations sur les produits et services.(non prioritaire)_
 
 ## Design and Layout / Conception et mise en page
 
