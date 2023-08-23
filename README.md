@@ -205,14 +205,16 @@ The aspects to consider are :
 The wireframes will give an idea of the basic structure of the website. It will be a simple sketch without design. It will help to see where each element will be placed on the page.
 The technology I will use to build the wireframes is [Figma](https://www.figma.com/).
 
-> _Les wireframes donneront une idée de la structure de base du site web. Ce sera un simple croquis sans design. Cela aidera à voir où chaque élément sera placé sur la page._ > _La technologie que j'utiliserai pour construire les wireframes est [Figma](https://www.figma.com/)._
+> _Les wireframes donneront une idée de la structure de base du site web. Ce sera un simple croquis sans design. Cela aidera à voir où chaque élément sera placé sur la page._ 
+> _La technologie que j'utiliserai pour construire les wireframes est [Figma](https://www.figma.com/)._
 
 ### Mockups / Maquettes avec design
 
 The mockups will give an idea of the final design of the website. It will be a sketch with design. It will help to see how the website shoul look like.
 As for the wireframes, I will use [Figma](https://www.figma.com/) to build the mockups.
 
-> _Les maquettes donneront une idée du design final du site web. Ce sera un croquis avec design. Cela aidera à voir à quoi le site web devrait ressembler._ > _Comme pour les wireframes, j'utiliserai [Figma](https://www.figma.com/) pour construire les maquettes._
+> _Les maquettes donneront une idée du design final du site web. Ce sera un croquis avec design. Cela aidera à voir à quoi le site web devrait ressembler._ 
+> _Comme pour les wireframes, j'utiliserai [Figma](https://www.figma.com/) pour construire les maquettes._
 
 ### Color Scheme / Palette de couleurs
 
