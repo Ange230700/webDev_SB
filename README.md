@@ -1,8 +1,12 @@
+<!--! = PROJECT DESCRIPTION = -->
+
 # webDev_SB
 
 This is the full stack development of mom's company website.
 
 > _Il s'agit du développement complet du site web de l'entreprise de maman._
+
+<!--? == PURPOSE OF THE SITE == -->
 
 ## Purpose and Goals / Objectifs et Buts
 
@@ -16,87 +20,95 @@ It is for **e-commerce purposes**.
 > _Il est destiné à l'**image de marque** et au **marketing**._\
 > _Il est destiné à la **vente en ligne**._
 
+<!--* === ONLINE PRESENCE === -->
+
 ### Online Presence / Visibilité en ligne
 
 It is to give some information about the **company**, the **products** and the **services** provided.\
-It is also essential for credibility.
+Creating this website is also essential for the company credibility.
 
 > _Il s'agit de donner des informations sur la **société**, les **produits** et les **services** fournis._\
-> _C'est aussi un élément essentiel qui assure la crédibilité de l'entreprise._
+> _La création de ce site aussi un élément essentiel qui assure la crédibilité de l'entreprise._
+
+<!--* === COMMUNICATION & INTERACTION === -->
 
 ### Communication and interaction / Communication et interaction
 
-It is to **contact** the company and to interact with it.\
+It is to **contact** the company and to **interact** with it.\
 Also, customers will be able to leave **reviews and comments**.
 
-> _C'est la fonctionnalité qui permettra à l'utilisateur de **contacter** l'entreprise et d'interagir avec elle._\
+> _C'est la fonctionnalité qui permettra à l'utilisateur de **contacter** l'entreprise et d'**interagir** avec elle._\
 > _Les clients pourront également laisser **des avis et des commentaires**._\
+
+<!--* === BRANDING === -->
 
 ### Branding building / Construction de la marque
 
 This will be inspired by the **values of the company**, the **vision**, the **mission** and the **achievements**.\
 It is to create a positive brand image and engaging customers.
 
-> _Elle s'inspirera des **valeurs de l'entreprise**, de sa **vision** et de sa **mission**.\
-> Il s'agit de créer une image de marque positive et d'engager les clients._
+> _Elle s'inspirera des **valeurs de l'entreprise**, de sa **vision** et de sa **mission** et de ces **accomplissements**._\
+> _Il s'agit de créer une image de marque positive et d'engager les clients._
+
+<!--? FEATURES -->
 
 ## Website features / Fonctionnalités du site web
 
-### Home page / Page d'accueil
+<!--* === ESSENTIAL FEATURES === -->
+
+### Essential features / Fonctionnalités essentielles
+
+<!-- ==== HOME ==== -->
+
+#### Home page / Page d'accueil
 
 The home page will be the first page the user will see when he visits the website.
 
 > _La page d'accueil sera la première page que l'utilisateur verra lorsqu'il visitera le site web._
 
-### About page / Page à propos
+<!-- ==== ABOUT ==== -->
+
+#### About page / Page à propos
 
 The about page will give some information about the company, the products and the services provided.
 
 > _La page à propos donnera des informations sur l'entreprise, les produits et les services fournis._
 
-### Contact page / Page de contact
+<!-- ==== CONTACT ==== -->
+
+#### Contact page / Page de contact
 
 The contact page will allow the user to contact the company.
 
 > _La page de contact permettra à l'utilisateur de contacter l'entreprise._
 
-### Reviews page / Page des avis
+<!-- ==== MULTIMEDIA CONTENT ==== -->
 
-The reviews page will allow the user to leave a review or a comment.
+#### Multimedia content / Contenu multimédia
 
-> _La page des avis permettra à l'utilisateur de laisser un avis ou un commentaire._
+The website will contain multimedia content like images, videos(_not essential for starters_) and audio(_not essential either_).
 
-### Search bar / Barre de recherche
+> _Le site web contiendra du contenu multimédia comme des images, des vidéos(*pas essentiel pour commencer*) et de l'audio(*pas essentiel non plus*)._
 
-The search bar will allow the user to search for a product or a service.
+<!-- ==== SOCIAL MEDIA INTEGRATION ==== -->
 
-> _La barre de recherche permettra à l'utilisateur de rechercher un produit ou un service._
-
-### Multi-language support / Support multilingue
-
-The website will be available in multiple languages.
-
-> _Le site web sera disponible en plusieurs langues._
-
-### Multimedia content / Contenu multimédia
-
-The website will contain multimedia content like images, videos and audio.
-
-> _Le site web contiendra du contenu multimédia comme des images, des vidéos et de l'audio._
-
-### Social media integration / Intégration des réseaux sociaux
+#### Social media integration / Intégration des réseaux sociaux
 
 The website will be integrated with social media platforms like Facebook, Instagram, Twitter, LinkedIn, YouTube, Pinterest, etc.
 
 > _Le site web sera intégré aux plateformes de réseaux sociaux comme Facebook, Instagram, Twitter, LinkedIn, YouTube, Pinterest, etc._
 
-### Blog or News section / Blog ou section Actualités
+<!-- ==== MULTI-LANGUAGE SUPPORT ==== -->
 
-The website will have a blog or a news section.
+#### Multi-language support / Support multilingue
 
-> _Le site web aura un blog ou une section Actualités._
+The website will be available in French and in English for starters.
 
-### Login and registration / Connexion et inscription
+> _Le site web sera disponible en français et en anglais pour commencer._
+
+<!-- ==== SEARCH ENGINE OPTIMIZATION ==== -->
+
+#### Login and registration / Connexion et inscription
 
 The website will have a login and registration system.\
 Their information will be stored in a **database** thanks to a form.
@@ -104,53 +116,99 @@ Their information will be stored in a **database** thanks to a form.
 > _Le site web aura un système de connexion et d'inscription._\
 > _Leurs coordonnées seront stockées dans une **base de données** grâce au formulaire de contact._
 
-### Shop / Boutique
+<!-- ==== ONLINE SHOP ==== -->
+
+#### Shop / Boutique
 
 The website will have an online shop.
 
 > _Le site web aura une boutique en ligne._
 
-### Privacy policy / Politique de confidentialité
+<!-- ==== COOKIES ==== -->
 
-The website will have a privacy policy.
-
-> _Le site web aura une politique de confidentialité._
-
-### Terms and conditions / Conditions générales d'utilisation
-
-The website will have terms and conditions.
-
-> _Le site web aura des conditions générales d'utilisation._
-
-### Cookie consent / Consentement aux cookies
+#### Cookies consent / Consentement aux cookies
 
 The website will have a cookie consent.
 
 > _Le site web aura un consentement aux cookies._
 
-### Sitemap / Plan du site
+<!-- ==== SITEMAP ==== -->
+
+#### Sitemap / Plan du site
 
 The website will have a sitemap.
 
 > _Le site web aura un plan du site._
 
-### FAQ / FAQ
+<!--* === LESS PRIOR FEATS -->
+
+### Less essential features / Fonctionnalités moins essentielles
+
+<!-- ==== SEARCH BAR ==== -->
+
+#### Search bar / Barre de recherche
+
+The search bar will allow the user to search for a product or a service.
+
+> _La barre de recherche permettra à l'utilisateur de rechercher un produit ou un service._
+
+<!-- ==== REVIEWS ==== -->
+
+#### Reviews page / Page des avis
+
+The reviews page will allow the user to leave a review or a comment.
+
+> _La page des avis permettra à l'utilisateur de laisser un avis ou un commentaire._
+
+<!-- ==== BLOG OR/AND NEWS ==== -->
+
+#### Blog or News section / Blog ou section Actualités
+
+The website will have a blog or a news section.
+
+> _Le site web aura un blog ou une section Actualités._
+
+<!-- ==== PRIVACY POLICY ==== -->
+
+#### Privacy policy / Politique de confidentialité
+
+The website will have a privacy policy.
+
+> _Le site web aura une politique de confidentialité._
+
+<!-- ==== TERMS AND CONDITIONS ==== -->
+
+#### Terms and conditions / Conditions générales d'utilisation
+
+The website will have terms and conditions.
+
+> _Le site web aura des conditions générales d'utilisation._
+
+<!-- ==== FAQ ==== -->
+
+#### FAQ / FAQ
 
 The website will have a FAQ section.
 
 > _Le site web aura une section FAQ._
 
-### Call To Action (CTA) / Appel à l'action (CTA)
+<!-- ==== CTAs ==== -->
 
-The website will have a call to action.
+#### Call To Action (CTA) / Appel à l'action (CTA)
 
-> _Le site web aura un appel à l'action._
+The website will have some calls to action.
 
-### Chatbot / Chatbot
+> _Le site web aura des appels à l'action._
+
+<!-- ==== CHATBOT ==== -->
+
+#### Chatbot / Chatbot
 
 A chatbot feature will be implemented to allow the user to interact with the company and to get some information about the products and services.(not essential)
 
 > _Un chatbot sera mis en place pour permettre à l'utilisateur d'interagir avec l'entreprise et d'obtenir des informations sur les produits et services.(non prioritaire)_
+
+<!--? DESIGN -->
 
 ## Design and Layout / Conception et mise en page
 
@@ -172,6 +230,8 @@ UX is important, the user should be able to navigate easily through the website.
 > _La navigation doit être simple et intuitive._\
 > _L'UX est important, l'utilisateur doit pouvoir naviguer facilement sur le site._
 
+<!--* BRANDING -->
+
 ### Branding / Image de marque
 
 The aim is to establish a recognizable and memorable image in the mind of the user.\
@@ -185,6 +245,8 @@ The **typography** should be **simple and consistent**.
 > _Le **slogan** doit être **court et facile à retenir**._\
 > _La **palette** de couleurs doit être **simple et cohérente**._\
 > _La **typographie** doit être **simple et cohérente**._
+
+<!--* UX -->
 
 ### UX design / Conception UX
 
@@ -206,6 +268,8 @@ The aspects to consider are :
 > - _**ergonomie**_
 > - _**fonctionnalité**_
 
+<!--* UI -->
+
 ### Wireframes / Maquettes sans design
 
 The wireframes will give an idea of the basic structure of the website. It will be a simple sketch without design. It will help to see where each element will be placed on the page.\
@@ -214,6 +278,8 @@ The technology I will use to build the wireframes is [Figma](https://www.figma.c
 > _Les wireframes donneront une idée de la structure de base du site web. Ce sera un simple croquis sans design. Cela aidera à voir où chaque élément sera placé sur la page._\
 > _La technologie que j'utiliserai pour construire les wireframes est [Figma](https://www.figma.com/)._
 
+<!--* UI part 2 -->
+
 ### Mockups / Maquettes avec design
 
 The mockups will give an idea of the final design of the website. It will be a sketch with design. It will help to see how the website should look like.\
@@ -221,6 +287,8 @@ As for the wireframes, I will use [Figma](https://www.figma.com/) to build the m
 
 > _Les maquettes donneront une idée du design final du site web. Ce sera un croquis avec design. Cela aidera à voir à quoi le site web devrait ressembler._\
 > _Comme pour les wireframes, j'utiliserai [Figma](https://www.figma.com/) pour construire les maquettes._
+
+<!--* UI part 3 -->
 
 ### Color Scheme / Palette de couleurs
 
@@ -252,6 +320,8 @@ For inspiration, we can check:
 > - _[Behance](https://www.behance.net/)_
 > - _[Awwwards](https://www.awwwards.com/)_
 
+<!--? DOMAIN NAME -->
+
 ## Domain name / Nom de domaine
 
 The domain name should be simple and memorable, something like : `www.solangebernard.com`.\
@@ -261,6 +331,8 @@ The availability of the domain name should be checked on a domain registration w
 > _Le nom de domaine doit être simple et mémorable, quelque chose comme : `www.solangebernard.com`._\
 > _Il est également important de bien choisir l'extension du domaine, `.com` est la plus courante mais `.fr` ou `.ci` sont également de bonnes options._\
 > _La disponibilité du nom de domaine doit être vérifiée sur un site d'enregistrement de domaines._
+
+<!--? HOSTING -->
 
 ## Hosting / Hébergement
 
