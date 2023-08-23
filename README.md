@@ -168,17 +168,17 @@ UX is important, the user should be able to navigate easily through the website.
 
 ### Branding / Image de marque
 
-The aim is to establish a recognizable and memorable image in the mind of the user.
-The **logo** should be **simple and memorable**.
-The **tagline** should be **short and memorable**.
-The **color** scheme should be **simple and consistent**.
+The aim is to establish a recognizable and memorable image in the mind of the user.\
+The **logo** should be **simple and memorable**.\
+The **tagline** should be **short and memorable**.\
+The **color** scheme should be **simple and consistent**.\
 The **typography** should be **simple and consistent**.
 
-> _L'objectif est d'établir une image reconnaissable et mémorable dans l'esprit de l'utilisateur.
-> Le **logo** doit être **simple et mémorable**.
-> Le **slogan** doit être **court et facile à retenir**.
-> La **palette** de couleurs doit être **simple et cohérente**.
-> La **typographie** doit être **simple et cohérente**._
+> _L'objectif est d'établir une image reconnaissable et mémorable dans l'esprit de l'utilisateur._\
+> _Le **logo** doit être **simple et mémorable**._\
+> _Le **slogan** doit être **court et facile à retenir**._\
+> _La **palette** de couleurs doit être **simple et cohérente**._\
+> _La **typographie** doit être **simple et cohérente**._
 
 ### UX design / Conception UX
 
