@@ -37,8 +37,7 @@ Creating this website is also essential for the company credibility.
 It is to **contact** the company and to **interact** with it.\
 Also, customers will be able to leave **reviews and comments**.
 
-> _C'est la fonctionnalité qui permettra à l'utilisateur de **contacter** l'entreprise et d'**interagir** avec elle._\
-> _Les clients pourront également laisser **des avis et des commentaires**._\
+> _C'est la fonctionnalité qui permettra à l'utilisateur de **contacter** l'entreprise et d'**interagir** avec elle._ > _Les clients pourront également laisser **des avis et des commentaires**._
 
 <!--* === BRANDING === -->
 
