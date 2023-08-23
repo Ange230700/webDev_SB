@@ -415,32 +415,60 @@ The choice will be made based on the **features** provided by each platform and 
 
 <!--TODO: Lay out the tech I am going to use the way FM do-->
 
+<!--? OVERVIEW -->
+
 ## Overview / Aperçu
+
+<!--* SCREENSHOTS -->
 
 ### Screenshots / Captures d'écran
 
+<!--* LINKS -->
+
 ### Links / Liens
+
+<!--? PROCESS -->
 
 ## My process / Ma démarche
 
+<!--* BUILT WITH -->
+
 ### Powered by / Créé avec
+
+<!--* WHAT I LEARNED -->
 
 ### What I learned / Ce que j'ai appris
 
+<!--* CONTINUED DEV -->
+
 ### Continued development / Développement continu
+
+<!--* USEFUL RESOURCES -->
 
 ### Useful resources / Ressources utiles
 
+<!--? AUTHOR -->
+
 ## Author / Auteur
+
+<!--? ACKNOWLEDGMENTS -->
 
 ## Acknowledgments / Remerciements
 
 <!--TODO: Suggest a style guide the way FM do-->
 
+<!--? STYLE GUIDE -->
+
 ## Front-end Style Guide / Guide de style front-end
+
+<!--* TYPOGRAPHY -->
 
 ### Typography / Typographie
 
+<!--* COLORS -->
+
 ### Colors / Couleurs
+
+<!--* SCREENS DEVICES -->
 
 ### Breakpoints / Points de rupture
