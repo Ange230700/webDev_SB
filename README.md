@@ -189,9 +189,7 @@ The aspects to consider are :
 - **accessibility**
 - **performance**
 - **ergonomics**
-- **branding**
 - **functionality**
-- **utility**
 
 > _L'objectif est de fournir une **expérience positive** à l'utilisateur.
 > Les aspects à prendre en compte sont :_
@@ -199,12 +197,8 @@ The aspects to consider are :
 > - _**utilisabilité**_
 > - _**accessibilité**_
 > - _**performance**_
-> - _**design**_
 > - _**ergonomie**_
-> - _**marketing**_
-> - _**image de marque**_
 > - _**fonctionnalité**_
-> - _**utilité**_
 
 ### Wireframes / Maquettes sans design
 
