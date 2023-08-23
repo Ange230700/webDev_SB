@@ -205,16 +205,14 @@ The aspects to consider are :
 The wireframes will give an idea of the basic structure of the website. It will be a simple sketch without design. It will help to see where each element will be placed on the page.
 The technology I will use to build the wireframes is [Figma](https://www.figma.com/).
 
-> _Les wireframes donneront une idée de la structure de base du site web. Ce sera un simple croquis sans design. Cela aidera à voir où chaque élément sera placé sur la page._
-> _La technologie que j'utiliserai pour construire les wireframes est [Figma](https://www.figma.com/)._
+> _Les wireframes donneront une idée de la structure de base du site web. Ce sera un simple croquis sans design. Cela aidera à voir où chaque élément sera placé sur la page._ > _La technologie que j'utiliserai pour construire les wireframes est [Figma](https://www.figma.com/)._
 
 ### Mockups / Maquettes avec design
 
 The mockups will give an idea of the final design of the website. It will be a sketch with design. It will help to see how the website shoul look like.
 As for the wireframes, I will use [Figma](https://www.figma.com/) to build the mockups.
 
-> _Les maquettes donneront une idée du design final du site web. Ce sera un croquis avec design. Cela aidera à voir à quoi le site web devrait ressembler._
-> _Comme pour les wireframes, j'utiliserai [Figma](https://www.figma.com/) pour construire les maquettes._
+> _Les maquettes donneront une idée du design final du site web. Ce sera un croquis avec design. Cela aidera à voir à quoi le site web devrait ressembler._ > _Comme pour les wireframes, j'utiliserai [Figma](https://www.figma.com/) pour construire les maquettes._
 
 ### Color Scheme / Palette de couleurs
 
@@ -232,10 +230,7 @@ For inspiration, we can check:
 - [Behance](https://www.behance.net/)
 - [Awwwards](https://www.awwwards.com/)
 
-> _Les couleurs représentant fidèlement la marque doivent être utilisées._
-> _Un nombre limité de couleurs sera utilisé pour garder le design simple et cohérent._
-> _Il y aura une couleur principale, une seconde peut être ajoutée, deux couleurs neutres seront utilisées pour la couleur de fond et la couleur du texte._
-> _Les technologies optionnelles pour choisir la palette de couleurs sont :_
+> _Les couleurs représentant fidèlement la marque doivent être utilisées._ > _Un nombre limité de couleurs sera utilisé pour garder le design simple et cohérent._ > _Il y aura une couleur principale, une seconde peut être ajoutée, deux couleurs neutres seront utilisées pour la couleur de fond et la couleur du texte._ > _Les technologies optionnelles pour choisir la palette de couleurs sont :_
 
 > - _[Coolors](https://coolors.co/)_
 > - _[Color Hunt](https://colorhunt.co/)_
@@ -245,15 +240,15 @@ For inspiration, we can check:
 > - _[Dribbble](https://dribbble.com/)_
 > - _[Behance](https://www.behance.net/)_
 > - _[Awwwards](https://www.awwwards.com/)_
+
 ## Domain name / Nom de domaine
 
-It should be simple and memorable, something like : `www.solangebernard.com`
-It is also important to decide of the domain extension, `.com` is the most common one but `.fr` or `.ci` are also some good options.
-The availability of the domain name should be checked on [GoDaddy](https://www.godaddy.com/) or other domain registration websites.
+The domain name should be simple and memorable, something like : `www.solangebernard.com`.
+It is also important to decide diligently of the domain extension, `.com` is the most common one but `.fr` or `.ci` are also some good options.
+The availability of the domain name should be checked on a domain registration website.
 
-> _Il doit être simple et mémorable, quelque chose comme : `www.solangebernard.com`
-> Il est également important de choisir l'extension du domaine, `.com` est la plus courante mais `.fr` ou `.ci` sont également de bonnes options.
-> La disponibilité du nom de domaine doit être vérifiée sur [GoDaddy] (https://www.godaddy.com/) ou d'autres sites d'enregistrement de domaines.
+> _Le nom de domaine doit être simple et mémorable, quelque chose comme : `www.solangebernard.com`._ > _Il est également important de bien choisir l'extension du domaine, `.com` est la plus courante mais `.fr` ou `.ci` sont également de bonnes options._ 
+> _La disponibilité du nom de domaine doit être vérifiée sur un site d'enregistrement de domaines._
 
 ## Hosting / Hébergement
 
