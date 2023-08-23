@@ -237,14 +237,14 @@ For inspiration, we can check:
 > _Il y aura une couleur principale, une seconde peut être ajoutée, deux couleurs neutres seront utilisées pour la couleur de fond et la couleur du texte._
 > _Les technologies optionnelles pour choisir la palette de couleurs sont :_
 
-- _[Coolors](https://coolors.co/)_
-- _[Color Hunt](https://colorhunt.co/)_
+> - _[Coolors](https://coolors.co/)_
+> - _[Color Hunt](https://colorhunt.co/)_
 
 > _Pour l'inspiration, nous pouvons consulter :_
 
-- _[Dribbble](https://dribbble.com/)_
-- _[Behance](https://www.behance.net/)_
-- _[Awwwards](https://www.awwwards.com/)_
+> - _[Dribbble](https://dribbble.com/)_
+> - _[Behance](https://www.behance.net/)_
+> - _[Awwwards](https://www.awwwards.com/)_
 ## Domain name / Nom de domaine
 
 It should be simple and memorable, something like : `www.solangebernard.com`
