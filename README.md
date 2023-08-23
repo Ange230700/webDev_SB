@@ -270,3 +270,16 @@ The optional technologies for hosting are:
 
 Let's keep our options open and choose the best one.\
 The choice will be made based on the **features** provided by each platform and the **pricing**.\
+
+> _Les technologies optionnelles pour l'hébergement sont :_
+>
+> - _[Heroku](https://www.heroku.com/)_
+> - _[Netlify](https://www.netlify.com/)_
+> - _[Vercel](https://vercel.com/)_
+> - _[GitHub Pages](https://pages.github.com/)_
+> - _[Amazon Web Services](https://aws.amazon.com/)_
+> - _[Google Cloud Platform](https://cloud.google.com/)_
+> - _[Microsoft Azure](https://azure.microsoft.com/)_
+
+> _Gardons nos options ouvertes et choisissons la meilleure._\
+> _Le choix sera fait en fonction des **fonctionnalités** fournies par chaque plateforme et du **prix**._
