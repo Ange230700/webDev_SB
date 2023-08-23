@@ -9,12 +9,12 @@ This is the full stack development of mom's company website.
 The purpose of this website is to **promote my mom's work** who is a dressmaker/designer.\
 It is to **enhance her online presence** and to provide a **platform for her to showcase her work**.\
 It is for **branding** and marketing purposes.\
-It is for **e-commerce purposes**.\
+It is for **e-commerce purposes**.
 
 > _Le but de ce site est de **promouvoir le travail de ma mère**, qui est couturière._\
 > _Il a pour but d'**améliorer sa visibilité** et de lui fournir une **plateforme pour présenter son travail**._\
 > _Il est destiné à l'**image de marque** et au marketing._\
-> _Il est destiné à la **vente en ligne**._\
+> _Il est destiné à la **vente en ligne**._
 
 ### Online Presence / Visibilité en ligne
 
