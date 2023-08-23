@@ -202,28 +202,17 @@ The aspects to consider are :
 
 ### Wireframes / Maquettes sans design
 
-The wireframes will give an idea of the basic structure of the website. It will be a simple sketch without design. It will help to see where each element will be placed on the page. 
-There are many optional technologies to help me build the wireframes.
-They are:
+The wireframes will give an idea of the basic structure of the website. It will be a simple sketch without design. It will help to see where each element will be placed on the page.
+The technology I will use to build the wireframes is [Figma](https://www.figma.com/).
 
-- [Figma](https://www.figma.com/) 
-- [Adobe XD](https://www.adobe.com/products/xd.html) 
-- [Sketch](https://www.sketch.com/)
-- [InVision](https://www.invisionapp.com/)
+> _Les wireframes donneront une idée de la structure de base du site web. Ce sera un simple croquis sans design. Cela aidera à voir où chaque élément sera placé sur la page._ > _La technologie que j'utiliserai pour construire les wireframes est [Figma](https://www.figma.com/)._
 
-> _Les wireframes donneront une idée de la structure de base du site web. Ce sera un simple croquis sans design. Cela aidera à voir où chaque élément sera placé sur la page._
-> _Il existe de nombreuses technologies optionnelles pour m'aider à construire les wireframes._
-> _Ce sont :_
->
-> - _[Figma](https://www.figma.com/)_
-> - _[Adobe XD](https://www.adobe.com/products/xd.html)_
-> - _[Sketch](https://www.sketch.com/)_
-> - _[InVision](https://www.invisionapp.com/)_
 ### Mockups / Maquettes avec design
 
-The mockups will be created using [Figma](https://www.figma.com/) or [Adobe XD](https://www.adobe.com/products/xd.html) or [Sketch](https://www.sketch.com/) or [InVision](https://www.invisionapp.com/).
+The mockups will give an idea of the final design of the website. It will be a sketch with design. It will help to see how the website shoul look like.
+As for the wireframes, I will use [Figma](https://www.figma.com/) to build the mockups.
 
-> _Les maquettes avec design seront créées à l'aide de [Figma](https://www.figma.com/) ou [Adobe XD](https://www.adobe.com/products/xd.html) ou [Sketch](https://www.sketch.com/) ou [InVision](https://www.invisionapp.com/)._
+> _Les maquettes donneront une idée du design final du site web. Ce sera un croquis avec design. Cela aidera à voir à quoi le site web devrait ressembler._ > _Comme pour les wireframes, j'utiliserai [Figma](https://www.figma.com/) pour construire les maquettes._
 
 ### Color Scheme / Palette de couleurs
 
