@@ -148,23 +148,23 @@ The website will have a call to action.
 
 ## Design and Layout / Conception et mise en page
 
-Branding is important, the website should be **consistent with the company's branding**.
-The website should be **responsive**, **accessible** and **mobile friendly**.
-The website should be **fast** and **secure**.
-The website should be **SEO friendly**.
-The website should be **scalable**.
-The color scheme should be simple and consistent.
-The navigation should be simple and intuitive.
+Branding is important, the website should be **consistent with the company's branding**.\
+The website should be **responsive**, **accessible** and **mobile friendly**.\
+The website should be **fast** and **secure**.\
+The website should be **SEO friendly**.\
+The website should be **scalable**.\
+The color scheme should be simple and consistent.\
+The navigation should be simple and intuitive.\
 UX is important, the user should be able to navigate easily through the website.
 
-> _L'image de marque est importante, le site web doit être **cohérent avec l'image de marque de l'entreprise**.
-> Le site web doit être **responsive**, **accessible** et **face à utiliser sur mobile**.
-> Le site web doit être **rapide** et **sécurisé**.
-> Le site web doit être **convenable pour le référencement naturel**.
-> Le site web doit être **extensilble**.
-> La palette de couleurs doit être simple et cohérente.
-> La navigation doit être simple et intuitive.
-> L'UX est important, l'utilisateur doit pouvoir naviguer facilement sur le site._
+> _L'image de marque est importante, le site web doit être **cohérent avec l'image de marque de l'entreprise**._\
+> _Le site web doit être **responsive**, **accessible** et **face à utiliser sur mobile**._\
+> _Le site web doit être **rapide** et **sécurisé**._\
+> _Le site web doit être **convenable pour le référencement naturel**._\
+> _Le site web doit être **extensible**._\
+> _La palette de couleurs doit être simple et cohérente._\
+> _La navigation doit être simple et intuitive._\
+> _L'UX est important, l'utilisateur doit pouvoir naviguer facilement sur le site._
 
 ### Branding / Image de marque
 
