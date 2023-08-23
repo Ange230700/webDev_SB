@@ -6,8 +6,6 @@ This is the full stack development of mom's company website.
 
 > _Il s'agit du développement complet du site web de l'entreprise de maman._
 
-<!--TODO: Create a table of contents-->
-
 <!--? TABLE OF CONTENTS -->
 
 ## Table of contents / Table des matières
@@ -45,6 +43,20 @@ This is the full stack development of mom's company website.
   - [Color Scheme / Palette de couleurs](#color-scheme--palette-de-couleurs)
 - [Domain name / Nom de domaine](#domain-name--nom-de-domaine)
 - [Hosting / Hébergement](#hosting--hébergement)
+- [Overview / Aperçu](#overview--aperçu)
+  - [Screenshots / Captures d'écran](#screenshots--captures-décran)
+  - [Links / Liens](#links--liens)
+- [My process / Ma démarche](#my-process--ma-démarche)
+  - [Powered by / Créé avec](#powered-by--créé-avec)
+  - [What I learned / Ce que j'ai appris](#what-i-learned--ce-que-jai-appris)
+  - [Continued development / Développement continu](#continued-development--développement-continu)
+  - [Useful resources / Ressources utiles](#useful-resources--ressources-utiles)
+- [Author / Auteur](#author--auteur)
+- [Acknowledgments / Remerciements](#acknowledgments--remerciements)
+- [Front-end Style Guide / Guide de style front-end](#front-end-style-guide--guide-de-style-front-end)
+  - [Typography / Typographie](#typography--typographie)
+  - [Colors / Couleurs](#colors--couleurs)
+  - [Breakpoints / Points de rupture](#breakpoints--points-de-rupture)
 
 <!--? == PURPOSE OF THE SITE == -->
 
@@ -402,5 +414,33 @@ The choice will be made based on the **features** provided by each platform and 
 > _Le choix sera fait en fonction des **fonctionnalités** fournies par chaque plateforme et du **prix**._
 
 <!--TODO: Lay out the tech I am going to use the way FM do-->
-<!--TODO: Make acknowledgement the way FM do-->
+
+## Overview / Aperçu
+
+### Screenshots / Captures d'écran
+
+### Links / Liens
+
+## My process / Ma démarche
+
+### Powered by / Créé avec
+
+### What I learned / Ce que j'ai appris
+
+### Continued development / Développement continu
+
+### Useful resources / Ressources utiles
+
+## Author / Auteur
+
+## Acknowledgments / Remerciements
+
 <!--TODO: Suggest a style guide the way FM do-->
+
+## Front-end Style Guide / Guide de style front-end
+
+### Typography / Typographie
+
+### Colors / Couleurs
+
+### Breakpoints / Points de rupture
