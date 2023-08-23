@@ -202,10 +202,23 @@ The aspects to consider are :
 
 ### Wireframes / Maquettes sans design
 
-The wireframes will be created using [Figma](https://www.figma.com/) or [Adobe XD](https://www.adobe.com/products/xd.html) or [Sketch](https://www.sketch.com/) or [InVision](https://www.invisionapp.com/).
+The wireframes will give an idea of the basic structure of the website. It will be a simple sketch without design. It will help to see where each element will be placed on the page. 
+There are many optional technologies to help me build the wireframes.
+They are:
 
-> _Les wireframes (maquettes sans design) seront créés à l'aide de [Figma](https://www.figma.com/) ou [Adobe XD](https://www.adobe.com/products/xd.html) ou [Sketch](https://www.sketch.com/) ou [InVision](https://www.invisionapp.com/)._
+- [Figma](https://www.figma.com/) 
+- [Adobe XD](https://www.adobe.com/products/xd.html) 
+- [Sketch](https://www.sketch.com/)
+- [InVision](https://www.invisionapp.com/)
 
+> _Les wireframes donneront une idée de la structure de base du site web. Ce sera un simple croquis sans design. Cela aidera à voir où chaque élément sera placé sur la page.
+> Il existe de nombreuses technologies optionnelles pour m'aider à construire les wireframes.
+> Ce sont :
+>
+> - [Figma](https://www.figma.com/)
+> - [Adobe XD](https://www.adobe.com/products/xd.html)
+> - [Sketch](https://www.sketch.com/)
+> - [InVision](https://www.invisionapp.com/)_
 ### Mockups / Maquettes avec design
 
 The mockups will be created using [Figma](https://www.figma.com/) or [Adobe XD](https://www.adobe.com/products/xd.html) or [Sketch](https://www.sketch.com/) or [InVision](https://www.invisionapp.com/).
