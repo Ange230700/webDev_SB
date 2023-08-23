@@ -41,6 +41,7 @@ This is the full stack development of mom's company website.
   - [Wireframes / Maquettes sans design](#wireframes--maquettes-sans-design)
   - [Mockups / Maquettes avec design](#mockups--maquettes-avec-design)
   - [Color Scheme / Palette de couleurs](#color-scheme--palette-de-couleurs)
+- [UX, UI and technical watch / Veille UX, UI et technique](#ux-ui-and-technical-watch--veille-ux-ui-et-technique)
 - [Domain name / Nom de domaine](#domain-name--nom-de-domaine)
 - [Hosting / Hébergement](#hosting--hébergement)
 - [Overview / Aperçu](#overview--aperçu)
@@ -351,12 +352,6 @@ The optional technologies to choose the color scheme are:
 - [Coolors](https://coolors.co/)
 - [Color Hunt](https://colorhunt.co/)
 
-For inspiration, we can check:
-
-- [Dribbble](https://dribbble.com/)
-- [Behance](https://www.behance.net/)
-- [Awwwards](https://www.awwwards.com/)
-
 > _Les couleurs représentant fidèlement la marque doivent être utilisées._\
 > _Un nombre limité de couleurs sera utilisé pour garder le design simple et cohérent._\
 > _Il y aura une couleur principale, une seconde peut être ajoutée, deux couleurs neutres seront utilisées pour la couleur de fond et la couleur du texte._\
@@ -364,6 +359,16 @@ For inspiration, we can check:
 
 > - _[Coolors](https://coolors.co/)_
 > - _[Color Hunt](https://colorhunt.co/)_
+
+<!--? WATCHES -->
+
+## UX, UI and technical watch / Veille UX, UI et technique
+
+For inspiration, we can check:
+
+- [Dribbble](https://dribbble.com/)
+- [Behance](https://www.behance.net/)
+- [Awwwards](https://www.awwwards.com/)
 
 > _Pour l'inspiration, nous pouvons consulter :_
 
